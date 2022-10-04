@@ -4,7 +4,7 @@ Here is a simple android game developed in Unity 3D 2018.2. In this game a first
 <br />
 <br />
 If you want to take a look at the game, check [this video](https://drive.google.com/file/d/180z0j9uRIyXewbkCQ2ayQGC3TGahMBFb/view?usp=sharing) out.<br />
-Do you want to play? Download it from here.
+Do you want to play? Download it from [here](https://github.com/saeidmetvaei/Wandering-Man-Windows/raw/main/Demo_App.rar).
 <br />
 <br />
 The key features of the project is listed bellow.<br />
@@ -16,4 +16,4 @@ The key features of the project is listed bellow.<br />
 6- As it is designed in FPS, arrow keys(and also the "A", "S", "D", "W" keys) can be used for moving, "Space" key for jumping and the mouse should be used to control the chracter's view and direction. <br />
 7- Sounds effects are added to the scenes in order to make them more realistic.<br />
 <br />
-You can find the android version of this game through this link.
+You can find the android version of this game through this [link](https://github.com/saeidmetvaei/Wandering_Man_Android).
