@@ -12,7 +12,7 @@ The key features of the project is listed bellow.<br />
 2- The unity's API for windows speach recognition is utilizd to detect the voice command.<br />
 3- OnTriggerEnter() function is used to be in charge of detecting collisions.<br />
 4- For creating the first person character, the FPS controller from unity's standard assets has been used.<br />
-5- The FPS controller has been modified to enable running by holding both "shift" keys on the keyboard. (In its default form the chracter runs just by holding right shift key.) <br />
+5- The FPS controller has been modified to enable running by holding both "shift" keys on the keyboard. (In its default the chracter runs just by holding right shift key.) <br />
 6- As it is designed in FPS, arrow keys(and also the "A", "S", "D", "W" keys) can be used for moving, "Space" key for jumping and the mouse should be used to control the chracter's view and direction. <br />
 7- Sounds effects are added to the scenes in order to make them more realistic.<br />
 <br />
