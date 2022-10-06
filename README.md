@@ -1,6 +1,6 @@
 # Wandering-Man-Windows
 
-Here is a simple windows game developed in Unity 3D 2018.2. In this game a first person character is designed to walk around and explore the environment. When the character collides with an object in the scene, the game not only displays the total number of collisions that have occurred so far, but it also detects and announces the type of object with which the character has collided. The game includes two different scenes in which user is able to switch to another one by voice command of "change".
+Here is a simple windows game developed in Unity 3D 2018.2. In this game a first person character is designed to walk around and explore the environment. When the character collides with an object in the scene, the game not only displays the total number of collisions that have occurred, but it also detects and announces the type of object with which the character has collided. The game includes two different scenes in which user is able to switch to another one by voice command of "change".
 <br />
 <br />
 If you want to take a look at the game, check [this video](https://drive.google.com/file/d/180z0j9uRIyXewbkCQ2ayQGC3TGahMBFb/view?usp=sharing) out.<br />
